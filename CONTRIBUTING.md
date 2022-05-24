@@ -82,7 +82,7 @@ A good way to figure out if you are not adhering to this rule is to tell yoursel
 
 This commit message contains three units of change, they are:
 
-- An image of pizza
+- Added an image of pizza
 - Fixed typos
 - Rewrote `README.md`
 
