@@ -42,7 +42,7 @@ Here on GitHub, there are a bunch of ways to get involved:
 
 Check out [`contribute.hackclub.com`](https://contribute.hackclub.com) for more active repositories & a guide to contributing. 
 
-**💖 Thank you for helping make Hack Club a magical place for high school hackers.** 
+**💖 Thank you for being a part of making Hack Club a magical place for high school hackers.** 
 
 ---
  
