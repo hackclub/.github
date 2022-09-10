@@ -4,7 +4,7 @@
 
 Welcome to a worldwide community of high school hackers. We’re artists, writers, engineers, tinkerers, campers, filmmakers, volunteers. We **make** things. We **help** one another. We have **fun**. **[Join us ➚](https://hackclub.com/slack)**
 
-Transparency is a core value of Hack Club, and code is not the only thing we open source. [Check out our finances, workshops, and more](https://hackclub.com/opensource).
+Transparency is a core value of Hack Club, and code is not the only thing we open source. [We've open sourced our finances, workshops, events and more](https://hackclub.com/opensource).
 
 <!---
 
