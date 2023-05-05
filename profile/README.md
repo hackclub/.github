@@ -32,7 +32,7 @@ We'd love to have you involved in the community:
 
 Here on GitHub, there are a bunch of ways to get involved:
 
-- [Draw a 🦕 dino](https://hack.af/draw-dino) & sumbit a PR to [`hackclub/dinosaurs`](https://github.com/hackclub/dinosaurs).
+- [Draw a 🦕 dino](https://hack.af/draw-dino) & submit a PR to [`hackclub/dinosaurs`](https://github.com/hackclub/dinosaurs).
 
 - Create a game in [🍃 Sprig](https://sprig.hackclub.com) (we'll ship you a [console](https://github.com/hackclub/sprig-hardware)!).
 
