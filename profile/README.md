@@ -36,6 +36,9 @@ Here on GitHub, there are a bunch of ways to get involved:
 
 - Create a game in [🍃 Sprig](https://sprig.hackclub.com) (we'll ship you a [console](https://github.com/hackclub/sprig-hardware)!).
 
+- Make and manufacture your first PCB
+ as part of [⚙️ OnBoard](https://hackclub.com/onboard)
+
 - Multilingual? Help us [translate our site](https://github.com/hackclub/global/issues/15)!
 
 - [Write a Hack Club workshop](https://workshops.hackclub.com/submit-a-workshop/) for clubs & hackers to build from.
