@@ -44,6 +44,9 @@ Here on GitHub, there are a bunch of ways to get involved:
 
 - [Write a Jam](https://github.com/hackclub/jams#i-want-to-make-a-jam) for clubs & hackers to build from.
 
+- Contribute to [🕳️ Burrow](https://github.com/hackclub/burrow), our open-source tool for burrowing through firewalls.
+
+
 Check out [`contribute.hackclub.com`](https://contribute.hackclub.com) for more active repositories & a guide to contributing. 
 
 **💖 Thank you for being a part of making Hack Club a magical place for high school hackers.** 
