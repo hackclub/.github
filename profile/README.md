@@ -1,7 +1,6 @@
 ## :wave: Hey, welcome to Hack Club 
 
 ![A group photo of Hack Clubbers in front of a cabin](https://cloud-asjjo40ek-hack-club-bot.vercel.app/0image__1_.jpg)
-_Hack Clubbers at [Outernet](https://github.com/hackclub/outernet), our summer 2023 event_
 
 Welcome to a worldwide community of high school hackers. We’re artists, writers, engineers, tinkerers, campers, filmmakers, volunteers. We **make** things. We **help** one another. We have **fun**. **[Join us ➚](https://hackclub.com/slack)**
 
