@@ -5,7 +5,7 @@
 - Treat everyone with respect and kindness.
 - Be thoughtful in how you communicate.
 - Don't be destructive or inflammatory.
-- If you encounter an issue, please mail <conduct@hackclub.com>.
+- If you encounter an issue, please send an email to conduct@hackclub.com.
 
 ## Why have a Code of Conduct?
 
@@ -31,6 +31,9 @@ Explicit enforcement of the Code of Conduct applies to all official online Hack 
 - Club Meetings
 
 Other Hack Club groups (such as hackathons, conferences, meetups, and other unofficial forums) are encouraged to adopt this Code of Conduct. Those groups must provide their own moderators and/or working group (see below).
+
+**For paid Staff members:**</br>
+_All official Hack Club Volunteers, Part Time, and Full Time Staff are required to follow the Code of Conduct to its fullest extent. Continued employment with Hack Club is contingent on abiding by the code of conduct._
 
 ## Hacker Values
 
@@ -65,8 +68,14 @@ These actions are explicitly forbidden in Hack Club spaces:
   - discrimination based on age, nationality, race, (dis)ability, gender (identity or expression), sexuality, religion, or similar personal characteristic;
   - bullying or systematic harassment;
   - unwelcome sexual advances, including sexually explicit content.
+  -   Sexual harassment of any form is not only unwelcome in our community, but it is also unlawful and reports of unlawful conduct will be investigated.
 - Advertisement or recruitment for events, companies, organizations, etc - unless specifically given permission by Hack Club HQ.
 - Posting spam-like content that disrupts the environment of the community.
+
+## Anti-retaliation
+
+The Hack Foundation **explicitly prohibits** retaliation against any individual who reports discrimination or harassment or participates in an investigation of such reports.
+
 
 ## Moderation & Enforcement
 
@@ -80,15 +89,36 @@ This procedure only serves as a general guideline for moderation & enforcement o
 
 Please understand that we will not restrict your ability to contact the [Code of Conduct working group](#working-group) under any circumstance. If you have any questions or concerns about our decision, please reach out to us directly. If your Slack account is under suspension, email us directly at <conduct@hackclub.com>.
 
+## Enforcement against offending Hack Club Staff members
+
+If a paid Staff member conducts themselves in a way that is explicitly forbidden by the Code of Conduct, they will be warned and asked to stop. Forbidden conduct will be privately investigated with the involvement of the Working Group. Repeated offenses may result in a termination of employment. Unlawful conduct will be reported by the leadership of The Hack Foundation to the appropriate authorities.
+
 ## Working Group
 
-The Working Group is responsible for handling conduct-related issues. Their mission is to de-escalate conflicts and try to resolve issues to the satisfaction of all parties. For all [projects related to and/or maintained by Hack Club HQ](#where-does-the-code-of-conduct-apply), the Working Group is made up of the [Hack Club staff team](https://hackclub.com/team/) and [Community team](https://app.slack.com/client/T0266FRGM/C01D7AHKMPF). The specific team member(s) handling each violation depend on the location and nature of the issue.
+The Working Group is responsible for handling conduct-related issues. Their mission is to de-escalate conflicts and try to resolve issues to the satisfaction of all parties. For all [projects related to and/or maintained by Hack Club HQ](#where-does-the-code-of-conduct-apply), the Working Group is made up of the [Hack Club staff team](https://hackclub.com/team/) and [Community team](https://app.slack.com/client/T0266FRGM/C01D7AHKMPF). The specific team member(s) handling each violation depend on the location and nature of the issue. Additional contact information to the appropriate State and Federal agencies can also be found below.
+
+**_Contact Information:_**
+</br></br>
+Working Group (conduct@hackclub.com)
+</br></br>
+<table>
+  <tr>
+    <th>Officers</th>
+    <th>Vermont Attorney General's office (Vermont state agency)</th>
+    <th>Equal Employment Opportunity Commission (Federal agency)</th>
+  </tr>
+  <tr>
+    <td><b>Zach Latta</b><br/> (ED, zach@hackclub.com) <br/><br/> <b>Christina Asquith</b> <br/> (COO, christina@hackclub.com)</td>
+    <td>109 State St <br/> Montpelier, VT 05609 <br/> https://ago.vermont.gov/contact <br/> 800-649-2424</td>
+    <td>131 M Street, NE <br/> Washington, DC 20507 <br/> https://www.eeoc.gov/youth/how-file-complaint <br/> 800-669-4000</td>
+  </tr>
+</table>
 
 ## Reporting Issues
 
-If you encounter a conduct-related issue, you should report it to the Working Group using the process described below. **Do not** post about the issue publicly or try to rally sentiment against a particular individual or group.
+If you encounter a conduct-related issue, you should report it to the Working Group using the process described below. We ask that you please **do not** post about the issue publicly until an investigation has reached a conclusion in the matter. We also ask that you restrain from trying .
 
-- Mail <conduct@hackclub.com>
+- Send an email to conduct@hackclub.com.
   - Your message will reach the Working Group.
   - Reports are confidential within the Working Group.
   - Should you choose to remain anonymous then the Working Group cannot notify you of the outcome of your report.
