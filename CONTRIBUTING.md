@@ -70,7 +70,7 @@ This is a style used by many other Open Source projects (Linux, Rails) as well a
 
 This commit message is wonderful!
 
-### Commits should be one logically unit of change
+### Commits should be one logical unit of change
 
 A logical unit of change can be thought of as completion of a single task.
 
