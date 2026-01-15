@@ -1,6 +1,7 @@
 ## :wave: Hey, welcome to Hack Club 
 
-![A group photo of Hack Clubbers in front of a cabin](https://cloud-asjjo40ek-hack-club-bot.vercel.app/0image__1_.jpg)
+![A group photo of Hack Clubbers in front of a cabin](https://github.com/user-attachments/assets/a6b5b19e-3234-4e2d-a61a-58da35ef5df8)
+
 
 Welcome to a worldwide community of high school hackers. We’re artists, writers, engineers, tinkerers, campers, filmmakers, volunteers. We **make** things. We **help** one another. We have **fun**. **[Join us ➚](https://hackclub.com/slack)**
 
@@ -36,8 +37,8 @@ Here on GitHub, there are a bunch of ways to get involved:
 
 - Create a game in [🍃 Sprig](https://sprig.hackclub.com) (we'll ship you a [console](https://github.com/hackclub/sprig-hardware)!).
 
-- Make and manufacture your first PCB
- as part of [⚙️ OnBoard](https://hackclub.com/onboard). We'll fund up to US$100 for your project!
+- Make and manufacture your first PCB or hardware project
+ as part of [📐 Blueprint](https://blueprint.hackclub.com). We'll fund up to US$400 for your project!
 
 - Multilingual? Help us [translate our site](https://github.com/hackclub/global/issues/15)!
 
