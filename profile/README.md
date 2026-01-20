@@ -20,6 +20,8 @@ We'd love to have you involved in the community:
 
 - [Start a Hack Club](https://hackclub.com/clubs/) at your high school.
 
+- Sign up for a [Campfire](https://campfire.hackclub.com) event happening near you!
+
 - Join the [Hack Club Slack](https://hackclub.com/slack) & get chatting with thousands of other young makers.
 
 - Attend _(or start!)_ a [high school hackathon](https://hackclub.com/hackathons) in your area.
