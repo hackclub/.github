@@ -1,6 +1,6 @@
 ## :wave: Hey, welcome to Hack Club 
 
-![A group photo of Hack Clubbers in front of a cabin](https://cloud-asjjo40ek-hack-club-bot.vercel.app/0image__1_.jpg)
+![A group photo of Hack Clubbers in front of a cabin](https://user-images.githubusercontent.com/39828164/189497810-6d9d2920-6bee-4990-9553-57699918ae9c.jpg)
 
 Welcome to a worldwide community of high school hackers. We’re artists, writers, engineers, tinkerers, campers, filmmakers, volunteers. We **make** things. We **help** one another. We have **fun**. **[Join us ➚](https://hackclub.com/slack)**
 
