@@ -92,7 +92,7 @@ These should be split into one commit each.
 
 This commit is great as only one logical change was made.
 
-### Commits should explain the change, but not be longer than 50 chars
+### Commits should explain the change, but not be longer than 50 characters
 
 A commit message is used for quickly summarizing a change. Another contributor should be able to read it, along with the content and immediately understand the change does.
 
