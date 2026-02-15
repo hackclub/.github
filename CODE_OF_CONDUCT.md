@@ -30,6 +30,8 @@ Explicit enforcement of the Code of Conduct applies to all official online Hack 
 - The [GitHub projects](https://github.com/hackclub)
 - Club Meetings
 
+Anyone associated with HQ is required to follow and model the Code of Conduct in all situations, including places with explicit enforcement and in other spaces too. There is a higher bar for anyone associated with HQ.
+
 Other Hack Club groups (such as hackathons, conferences, meetups, and other unofficial forums) are encouraged to adopt this Code of Conduct. Those groups must provide their own moderators and/or working group (see below).
 
 ## Hacker Values
@@ -65,12 +67,13 @@ These actions are explicitly forbidden in Hack Club spaces:
   - discrimination based on age, nationality, race, (dis)ability, gender (identity or expression), sexuality, religion, or similar personal characteristic;
   - bullying or systematic harassment;
   - unwelcome sexual advances, including sexually explicit content.
-- Advertisement or recruitment for events, companies, organizations, etc - unless specifically given permission by Hack Club HQ.
+- Advertising or recruiting for events, companies, organizations, etc - unless specifically given permission by Hack Club HQ.
 - Posting spam-like content that disrupts the environment of the community.
+- Defrauding Hack Club, including HCB, by collecting funds or resources under false information, identity, or pretenses. This is treated as a **third offense** and could result in a call to **your school admin**.
 
 ## Moderation & Enforcement
 
-Please understand that speech and actions have consequences, and unacceptable behavior will not be tolerated. When you participate in [areas where the code of conduct applies](#where-does-the-code-of-conduct-apply), you should act in the spirit of the "Hacker values". If you conduct yourself in a way that is explicitly forbidden by the Code of Conduct, you will be warned and asked to stop, and your messages may be removed by community moderators. Repeated offenses may result in a temporary or permanent ban from the community.
+Please understand that speech and actions have consequences, and unacceptable behavior will not be tolerated. When you participate in [areas where the code of conduct applies](#where-does-the-code-of-conduct-apply), you should act in the spirit of the "Hacker Values". If you conduct yourself in a way that is explicitly forbidden by the Code of Conduct, you will be warned and asked to stop, and your messages may be removed by community moderators. Repeated offenses may result in a temporary or permanent ban from the community.
 
 - On your first offense, you will receive a written notice from one of our community moderators. Depending on the degree of the reported behavior, you may be asked to apologize, either in public or directly to the party that you have offended.
 - On a second offense, you will be temporarily removed from the community. The period of the temporary ban may vary from 3 days to a month, decided based on the seriousness of the reported behavior. Please note that this ban **does not indicate that you are no longer welcomed in the community** - it represents an official warning for your behavior.
@@ -82,7 +85,7 @@ Please understand that we will not restrict your ability to contact the [Code of
 
 ## Working Group
 
-The Working Group is responsible for handling conduct-related issues. Their mission is to de-escalate conflicts and try to resolve issues to the satisfaction of all parties. For all [projects related to and/or maintained by Hack Club HQ](#where-does-the-code-of-conduct-apply), the Working Group is made up of the [Hack Club staff team](https://hackclub.com/team/) and [Community team](https://app.slack.com/client/T0266FRGM/C01D7AHKMPF). The specific team member(s) handling each violation depend on the location and nature of the issue.
+The Working Group is responsible for handling conduct-related issues. Their mission is to de-escalate conflicts and try to resolve issues to the satisfaction of all parties. For all [projects related to and/or maintained by Hack Club HQ](#where-does-the-code-of-conduct-apply), the Working Group is made up of the [Hack Club staff team](https://hackclub.com/team/) and [Fire Dept](https://app.slack.com/client/T0266FRGM/C01D7AHKMPF). The specific team member(s) handling each violation depend on the location and nature of the issue.
 
 ## Reporting Issues
 
@@ -93,11 +96,11 @@ If you encounter a conduct-related issue, you should report it to the Working Gr
   - Reports are confidential within the Working Group.
   - Should you choose to remain anonymous then the Working Group cannot notify you of the outcome of your report.
   - You may contact a member of the group directly if you do not feel comfortable contacting the group as a whole. That member will then raise the issue with the Working Group as a whole, preserving the privacy of the reporter (if desired).
-  - If your report concerns a member of the Working Group they will be recused from Working Group discussions of the report.
+  - If your report concerns a member of the Working Group, they will be recused from Working Group discussions of the report.
   - The Working Group will strive to handle reports with discretion and sensitivity, to protect the privacy of the involved parties, and to avoid conflicts of interest.
 - You should receive a response within 48 hours (likely sooner). (Should you choose to contact a single Working Group member, it may take longer to receive a response.)
 - The Working Group will meet to review the incident and determine what happened.
-  - With the permission of person reporting the incident, the Working Group may reach out to other community members for more context.
+  - With the permission of the person reporting the incident, the Working Group may reach out to other community members for more context.
   - The Working Group will reach a decision as to how to act. These may include:
     - Nothing.
     - A request for a private or public apology.
@@ -105,7 +108,7 @@ If you encounter a conduct-related issue, you should report it to the Working Gr
     - An imposed vacation (for instance, asking someone to abstain for a week from the Slack or a GitHub project).
     - A permanent or temporary ban from some or all Hack Club spaces.
 - The Working Group will reach out to the original reporter to let them know the decision.
-- Appeals to the decision may be made to the Working Group, or to any of its members directly.
+- Appeals to the decision may be made to the Working Group or to any of its members directly.
 
 **Note that the goal of the Code of Conduct and the Working Group is to resolve conflicts in the most harmonious way possible.** We hope that in most cases issues may be resolved through polite discussion and mutual agreement. Bannings and other forceful measures are to be employed only as a last resort.
 
