@@ -36,15 +36,9 @@ Here on GitHub, there are a bunch of ways to get involved:
 
 - Create a game in [🍃 Sprig](https://sprig.hackclub.com) (we'll ship you a [console](https://github.com/hackclub/sprig-hardware)!).
 
-- Make and manufacture your first PCB
- as part of [⚙️ OnBoard](https://hackclub.com/onboard). We'll fund up to US$100 for your project!
-
 - Multilingual? Help us [translate our site](https://github.com/hackclub/global/issues/15)!
 
 - [Write a Jam](https://github.com/hackclub/jams#i-want-to-make-a-jam) for clubs & hackers to build from.
-
-- Contribute to [🕳️ Burrow](https://github.com/hackclub/burrow), our open-source tool for burrowing through firewalls.
-
 
 Check out [`contribute.hackclub.com`](https://contribute.hackclub.com) for more active repositories & a guide to contributing. 
 
