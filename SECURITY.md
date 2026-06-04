@@ -11,8 +11,7 @@ Found a security vulnerability in a Hack Club program? We want to hear about it!
 1. Submit your report on [security.hackclub.com](https://security.hackclub.com)
 2. Our bug bounty team validates whether it's a legitimate vulnerability
 3. The team works on a fix
-4. Once resolved, a GitHub Security Advisory is published on the affected repo with a link back to the full Aegis disclosure
-
+4. Once resolved, a GitHub Security Advisory is published on the affected repo
 ### Scope
 
 All Hack Club programs participating on security.hackclub.com are in scope. You can view a full list of participating programs on the site, but we also welcome reports on any Hack Club program, even if it's not listed. If you're unsure whether a vulnerability is in scope, submit it and we will make sure it gets to the right place.
