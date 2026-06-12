@@ -120,6 +120,8 @@ Here are a series of GIFs that illustrate how to make and commit a change, and c
 
 <img width="1280" height="703" alt="Step 2: Edit File" src="https://github.com/user-attachments/assets/52401b78-9fe4-4c7f-b26a-cb8ca85afefc" />
 
-![Add commit message](https://cloud-agvs502ft.vercel.app/2pr3.gif)
+**Step 3:** Add commit message
+---
+<img width="1280" height="738" alt="GitCommitDemo" src="https://github.com/user-attachments/assets/81e6d272-8e89-4743-9101-1bb7041568a0" />
 
 ![Make a pull request](https://cloud-agvs502ft.vercel.app/3pr4.gif)
