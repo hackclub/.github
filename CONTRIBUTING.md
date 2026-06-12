@@ -112,9 +112,13 @@ A commit message is used for quickly summarizing a change. Another contributor s
 Here are a series of GIFs that illustrate how to make and commit a change, and create a pull request for review, using GitHub's web interface.
 
 **Step 1:** Navigate to the file to edit
+---
 <img width="800" height="450" alt="Step 1: Navigate to the file to edit" src="https://github.com/user-attachments/assets/b9ac7b52-60dc-4411-abe5-04ea4ced2a09" />
 
-![Edit file](https://cloud-agvs502ft.vercel.app/1pr2.gif)
+**Step 2:** Edit File
+---
+
+<img width="1280" height="703" alt="Step 2: Edit File" src="https://github.com/user-attachments/assets/52401b78-9fe4-4c7f-b26a-cb8ca85afefc" />
 
 ![Add commit message](https://cloud-agvs502ft.vercel.app/2pr3.gif)
 
