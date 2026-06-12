@@ -124,4 +124,6 @@ Here are a series of GIFs that illustrate how to make and commit a change, and c
 ---
 <img width="1280" height="738" alt="GitCommitDemo" src="https://github.com/user-attachments/assets/81e6d272-8e89-4743-9101-1bb7041568a0" />
 
-![Make a pull request](https://cloud-agvs502ft.vercel.app/3pr4.gif)
+**Step 4:** Make a pull request
+---
+<img width="1280" height="738" alt="PullRequestDemo" src="https://github.com/user-attachments/assets/c4183dfb-0f62-441a-9a42-6af11893c48d" />
