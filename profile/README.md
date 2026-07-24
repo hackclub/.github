@@ -36,7 +36,7 @@ Here on GitHub, there are a bunch of ways to get involved:
 
 - Create a game in [🍃 Sprig](https://sprig.hackclub.com) (we'll ship you a [console](https://github.com/hackclub/sprig-hardware)!).
 
-- Multilingual? Help us [translate our site](https://github.com/hackclub/global/issues/15)!
+- Multilingual? Help us [translate our site](https://github.com/hackclub/site/tree/main/messages)!
 
 - [Write a Jam](https://github.com/hackclub/jams#i-want-to-make-a-jam) for clubs & hackers to build from.
 
